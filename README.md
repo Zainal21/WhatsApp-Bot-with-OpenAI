@@ -30,14 +30,14 @@
 1. Clone repository
 
 ```bash
-$ git clone https://github.com/Zainal21/whatsapp-openai-bot.git
+$ git clone https://github.com:Zainal21/WhatsApp-Bot-with-OpenAI.git
 ```
 
 2. move to directory project and Install depedencies
 
 ```bash
 
-$ cd whatsapp-openai-bot
+$ cd WhatsApp-Bot-with-OpenAI
 
 $ yarn install or npm install
 ```
